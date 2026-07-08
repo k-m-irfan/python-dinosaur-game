@@ -1,0 +1,3 @@
+# Dependencies for the original desktop (pygame) version — NOT used for web deploy.
+# Install locally with:  pip install -r requirements-desktop.txt
+pygame>=2.6.1
